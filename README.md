@@ -1,12 +1,9 @@
 <div align="center">
 
 # 🌐 Linux Network Monitoring Toolkit
-<div align="center">
-
-<img src="assets/project-banner.png" width="100%">
-
-</div>
-
+<p align="center">
+  <img src="assets/project-banner.png" alt="Project Banner" width="100%">
+</p>
 ### Professional Bash-Based Linux Network Diagnostics & Monitoring Toolkit
 
 <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
