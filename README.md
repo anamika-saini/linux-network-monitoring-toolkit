@@ -13,7 +13,13 @@
 ---
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="120">
+<div align="center">
 
+# Linux Network Monitoring Toolkit
+
+<img src="assets/project-banner.png" width="100%">
+
+</div>
 <p align="center">
 <img src="assets/project-banner.png">
 </p>
