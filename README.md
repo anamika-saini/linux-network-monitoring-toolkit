@@ -1,6 +1,11 @@
 <div align="center">
 
 # 🌐 Linux Network Monitoring Toolkit
+<div align="center">
+
+<img src="assets/project-banner.png" width="100%">
+
+</div>
 
 ### Professional Bash-Based Linux Network Diagnostics & Monitoring Toolkit
 
@@ -12,17 +17,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="120">
-<div align="center">
 
-# Linux Network Monitoring Toolkit
-
-<img src="assets/project-banner.png" width="100%">
-
-</div>
-<p align="center">
-<img src="assets/project-banner.png">
-</p>
 ## 🚀 Monitor • Diagnose • Troubleshoot • Automate
 
 *A professional Linux networking project developed using Bash scripting to automate common network administration and troubleshooting tasks.*
